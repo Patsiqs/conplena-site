@@ -130,3 +130,10 @@ h3{font-size:1.65rem}
   .section{padding:70px 0}
   .hero-mark{display:none}
 }
+
+.story-layout{align-items:center}
+.story-photo{max-width:520px;margin-inline:auto}
+.story-photo img{width:100%;height:auto;aspect-ratio:auto;object-fit:contain;background:#fff}
+.story-photo-sm{max-width:500px}
+.caption{padding:10px 14px 14px;margin:0;background:#f5f2ed}
+@media(max-width:920px){.story-photo,.story-photo-sm{max-width:100%}}

@@ -1,8 +1,10 @@
-# Conplena Site v2
+# Conplena Site v3
 
-Versão corrigida para GitHub Pages.
+Atualizações:
+- telefone: (67) 99836-0504;
+- novo texto da página Nossa História;
+- fotos reais corretas;
+- melhoria leve de contraste, cor e nitidez;
+- fotos menores, sem rotação nem deformação.
 
-Todos os arquivos ficam na raiz do repositório.  
-Envie todos os arquivos desta pasta e substitua os existentes.
-
-Depois aguarde o GitHub Pages publicar novamente.
+Envie todos os arquivos para a raiz do repositório e substitua os existentes.
