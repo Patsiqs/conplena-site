@@ -1,10 +1,3 @@
-# Conplena Site v3
+# Site oficial da Conplena — versão final
 
-Atualizações:
-- telefone: (67) 99836-0504;
-- novo texto da página Nossa História;
-- fotos reais corretas;
-- melhoria leve de contraste, cor e nitidez;
-- fotos menores, sem rotação nem deformação.
-
-Envie todos os arquivos para a raiz do repositório e substitua os existentes.
+Revisão geral concluída, página Nossa História sem fotos, SEO básico e domínio conplena.com.br preparado.
