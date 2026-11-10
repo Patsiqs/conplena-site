@@ -316,3 +316,10 @@ blockquote{margin:32px 0;padding:24px 28px;border-left:4px solid var(--copper);b
     width: 55%;
   }
 }
+.pillar-grid.grid-3{grid-template-columns:repeat(3,1fr)}
+.section-dark .container>h3{margin:40px 0 0}
+@media(max-width:920px){.pillar-grid.grid-3{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:700px){.pillar-grid.grid-3{grid-template-columns:1fr}}
+.plans-home{grid-template-columns:repeat(2,1fr)}
+@media(max-width:700px){.plans-home{grid-template-columns:1fr}}
+.section-dark .section-head p{color:#dbe2eb}
